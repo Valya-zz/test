@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>knop.png</Source>
+      <Name>knop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\knop.xnb</Output>
+      <Time>2013-04-21T12:22:46.3926032+04:00</Time>
+    </Item>
+    <Item>
+      <Source>1.jpg</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2013-04-21T11:17:36.7867713+04:00</Time>
+    </Item>
+    <Item>
+      <Source>2.jpg</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2013-04-21T11:17:36.7927716+04:00</Time>
+    </Item>
+    <Item>
+      <Source>3.jpg</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2013-04-21T11:17:36.798772+04:00</Time>
+    </Item>
+    <Item>
+      <Source>4.jpg</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2013-04-21T11:18:44.5566475+04:00</Time>
+    </Item>
+    <Item>
+      <Source>1234.png</Source>
+      <Name>1234</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\1234.xnb</Output>
+      <Time>2013-04-21T15:16:33.8370189+04:00</Time>
+    </Item>
+    <Item>
+      <Source>text.png</Source>
+      <Name>text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\text.xnb</Output>
+      <Time>2013-04-21T13:58:25.9608878+04:00</Time>
+    </Item>
+    <Item>
+      <Source>text12.png</Source>
+      <Name>text12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\text12.xnb</Output>
+      <Time>2013-04-21T15:02:58.7693997+04:00</Time>
+    </Item>
+    <Item>
+      <Source>segoe_print.spritefont</Source>
+      <Name>segoe_print</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\segoe_print.xnb</Output>
+      <Time>2013-04-21T11:25:31.6969346+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-16T09:34:52.265985+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

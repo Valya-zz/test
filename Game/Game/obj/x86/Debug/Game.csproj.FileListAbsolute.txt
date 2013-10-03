@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\1.xnb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\2.xnb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\3.xnb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\knop.xnb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\4.xnb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Game\Game\bin\x86\Debug\Content\segoe_print.xnb
